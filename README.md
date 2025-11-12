@@ -1,6 +1,3 @@
-Perfect 🎯 — since your Azure Entra ID login + React + Node setup is now working end-to-end, here’s a **complete, professional `README.md`** you can drop into your project root (`D:\SUB\NubeEra_work\full_stack_devops\`).
-
-This covers all steps from setup to running the app 👇
 
 ---
 
