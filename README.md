@@ -53,7 +53,7 @@ Backend (Express) ──► Validates Token ──► Returns Todos
 ---
 
 
-````
+
 
 ---
 
@@ -64,7 +64,7 @@ Backend (Express) ──► Validates Token ──► Returns Todos
 ### Install dependencies
 ```bash
 npm install express cors @azure/msal-node jsonwebtoken
-````
+
 
 ### server.js
 
