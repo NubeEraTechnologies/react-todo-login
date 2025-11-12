@@ -63,6 +63,8 @@ Backend (Express) ──► Validates Token ──► Returns Todos
 
 ### Install dependencies
 ```bash
+mkdir backend
+
 npm install express cors @azure/msal-node jsonwebtoken
 
 
@@ -327,7 +329,6 @@ Double-click `run.bat` to launch both servers 🚀
 
 ---
 
-**Author:** Shoeb
 **Tech Stack:** React · Node.js · Azure Entra ID · MSAL
 
 ```
