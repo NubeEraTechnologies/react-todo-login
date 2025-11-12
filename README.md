@@ -52,22 +52,6 @@ Backend (Express) ──► Validates Token ──► Returns Todos
 
 ---
 
-## 🖥️ Step 2 — Project Structure
-
-
-full_stack_devops/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── ...
-└── react-todo-auth/
-├── src/
-│   ├── App.js
-│   ├── Login.js
-│   ├── Todo.js
-│   ├── authConfig.js
-│   └── index.js
-└── package.json
 
 ````
 
